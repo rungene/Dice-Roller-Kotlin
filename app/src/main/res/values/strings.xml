@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller Kotlin</string>
+    <string name="roll">Roll</string>
+    <string name="text_one">1</string>
+</resources>
